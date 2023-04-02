@@ -17,6 +17,6 @@ Speed up your LoopingLouie to make the game more fun
 
 
 # Getting Started
--1. Wire the Hardware
--2. Upload the Arduino Software
--3. Enjoy the game
+- 1. Wire the Hardware
+- 2. Upload the Arduino Software
+- 3. Enjoy the game
