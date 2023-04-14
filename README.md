@@ -13,7 +13,7 @@ Speed up your LoopingLouie to make the game more fun
 
 
 # Connection Diagram
-<img src="https://github.com/MIRIPP/LoopingLouieTurbo/blob/main/Magnificent%20Wolt-Borwo.png"/>
+<img src="https://github.com/MIRIPP/LoopingLouieTurbo/blob/main/doc/Connection%20Diagram.png?raw=true"/>
 
 
 # Getting Started
