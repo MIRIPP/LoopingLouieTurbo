@@ -1,6 +1,8 @@
 # LoopingLouieTurbo
 Speed up your LoopingLouie to make the game more fun
 
+![](https://github.com/MIRIPP/LoopingLouieTurbo/blob/main/doc/example_gif.gif?raw=true)
+
 
 # Hardware
 
@@ -21,4 +23,3 @@ Speed up your LoopingLouie to make the game more fun
 2. Upload the Arduino Software
 3. Enjoy the game
 
-![](https://github.com/MIRIPP/LoopingLouieTurbo/blob/main/doc/example_gif.gif?raw=true)
