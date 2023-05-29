@@ -1,5 +1,5 @@
 # LoopingLouieTurbo
-Speed up your LoopingLouie to make the game more fun
+Speed up your LoopingLouie and change the speed random, to make the game more fun! 
 
 
 # Hardware
